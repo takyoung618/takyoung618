@@ -1,5 +1,4 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:A3EE6B&height=250&section=header&text=Hello%20I'm%20takyoung618%20%F0%9F%91%8B&fontSize=50&animationfadeln&fontAlignY=36&fontColor=ffffff)
 
 <!--
 **takyoung618/takyoung618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
